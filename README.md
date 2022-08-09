@@ -5,7 +5,7 @@ a pocket calculator.
 
 //new change
 
-[![Build Status](https://dev.azure.com/revathybarath196150198/revathybarath19615/_apis/build/status/revathybarath19615.calculator?branchName=refs%2Fpull%2F1%2Fmerge)](https://dev.azure.com/revathybarath196150198/revathybarath19615/_build/latest?definitionId=1&branchName=refs%2Fpull%2F1%2Fmerge)
+[![Build Status](https://dev.azure.com/revathybarath196150198/revathybarath19615/_apis/build/status/revathybarath19615.calculator?branchName=master)](https://dev.azure.com/revathybarath196150198/revathybarath19615/_build/latest?definitionId=1&branchName=master)
 
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
